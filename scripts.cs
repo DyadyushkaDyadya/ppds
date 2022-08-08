@@ -20,6 +20,7 @@ namespace Mod
         public static string path;
         public static void OnLoad()
         {
+
             path = ModAPI.Metadata.MetaLocation;
             Assembly DLL = Assembly.Load(File.ReadAllBytes(Path.Combine(ModAPI.Metadata.MetaLocation, @"DiscordStats.dll")));
             LoaderType = DLL.GetType("DiscordStats.Discord");
