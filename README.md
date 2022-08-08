@@ -1,2 +1,2 @@
-# ppds
-People Playground Discord Stats
+# People Playground Discord Stats
+
