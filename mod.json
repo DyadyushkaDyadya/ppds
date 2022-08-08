@@ -1,0 +1,16 @@
+{
+  "Name": "Discord Stats",
+  "Author": "Dyadyushka Dyadya",
+  "Description": "",
+  "ModVersion": "1.0",
+  "GameVersion": "1.24+",
+  "ThumbnailPath": "Thumb.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [],
+  "Scripts": [
+    "scripts.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": null
+}
