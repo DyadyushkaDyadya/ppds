@@ -1,5 +1,5 @@
 # People Playground Discord Stats
-
+![template](https://media.discordapp.net/attachments/931578447732555906/1006299147218989146/unknown.png "what it looks like")
 ## How to Install
 
 * Download Zip
