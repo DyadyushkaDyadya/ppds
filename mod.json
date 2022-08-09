@@ -1,7 +1,7 @@
 {
-  "Name": "Discord Stats",
+  "Name": "People Playground Discord Stats",
   "Author": "Dyadyushka Dyadya",
-  "Description": "",
+  "Description": "Adds to your discord activity information about the map where you are, how many creatures killed, how many items spaved and how many mods you have installed. Let all your friends in discord know about your adventures.",
   "ModVersion": "1.0",
   "GameVersion": "1.24+",
   "ThumbnailPath": "Thumb.png",
@@ -12,5 +12,5 @@
   ],
   "Active": true,
   "UGCIdentity": null,
-  "CreatorUGCIdentity": null
+  "CreatorUGCIdentity": "2846890700"
 }
