@@ -8,6 +8,8 @@
 
 * Unzip to the Mods folder at the root of the game
 
+* Make sure that all activity settings are enabled
+![Step 2](https://media.discordapp.net/attachments/955551880916914176/1006732888932364419/unknown.png?width=755&height=671 "2")
 ## Error "Parsing error: ..."
 
 * Set **disable** in parameter "Reject suspicious mods"
