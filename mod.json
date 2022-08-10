@@ -10,7 +10,7 @@
   "Scripts": [
     "scripts.cs"
   ],
-  "Active": true,
+  "Active": false,
   "UGCIdentity": null,
   "CreatorUGCIdentity": "2846890700"
 }
